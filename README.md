@@ -1,4 +1,16 @@
-# 📊 Análisis de Cancelación de Clientes (Churn) – Telecom
+# 📊 Challenge Telecom X: análisis de evasión de clientes
+
+## 📑 Tabla de Contenido
+1. [Descripción del proyecto](#-descripción-del-proyecto)
+2. [Tecnologías utilizadas](#️-tecnologías-utilizadas)
+3. [Librerías utilizadas](#-librerías-utilizadas)
+4. [Estructura del proyecto](#-estructura-del-proyecto)
+5. [Análisis realizado](#-análisis-realizado)
+6. [Principales resultados](#-principales-resultados)
+7. [Conclusiones](#-conclusiones)
+8. [Estado del proyecto](#-estado-del-proyecto)
+9. [Posibles mejoras futuras](#-posibles-mejoras-futuras)
+
 
 ## 🧠 Descripción del proyecto
 Este proyecto tiene como objetivo analizar los factores asociados a la cancelación de clientes (*churn*) en una empresa de telecomunicaciones, utilizando análisis exploratorio de datos (EDA) y visualizaciones para identificar patrones relevantes que expliquen por qué los clientes deciden cancelar el servicio.
